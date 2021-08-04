@@ -13,7 +13,7 @@ To build and run the sample code please make sure you have the following prerequ
 
 ## Getting Started
 
-- Given a JSON API payload ([http://static.globalnews.ca/content/test/results-2011.js](http://static.globalnews.ca/content/test/results-2011.js)) containing the election results for 10 ridings, display them in a carousel presentation that a user can rotate through to view all the results.
+- Given a JSON API payload ([https://globalnews.ca/gnca-ajax-redesign/sample-data/](https://globalnews.ca/gnca-ajax-redesign/sample-data/)) containing the election results for 10 ridings, display them in a carousel presentation that a user can rotate through to view all the results.
 - There should be left and right arrows that users can click to "flip" through all of the 10 riding "cards".
 - Each riding "card" should display the name of the riding and the ordered list of candidates for that riding with their vote totals and percentage of the total vote.
 - The winner of the riding should also be highlighted.
