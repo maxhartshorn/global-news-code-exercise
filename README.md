@@ -35,4 +35,4 @@ Use `npm run dev` for development. This will spin up a dev server on `localhost:
 When you are ready to submit, run `npm run build`.
 
 ## How to submit code?
-Please upload completed code to a personal git repository and share the link to your repository with us.
+Please upload completed code to a private git repository and share the link to your repository with us.
